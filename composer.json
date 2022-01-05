@@ -1,0 +1,15 @@
+{
+    "name": "dwalisson/sla",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Diego Walisson",
+            "email": "diegowalisson@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzle/http": "^3.9",
+        "symfony/dom-crawler": "^3.2",
+        "symfony/css-selector": "^3.2"
+    }
+}
